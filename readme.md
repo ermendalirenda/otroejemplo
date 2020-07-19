@@ -1,1 +1,1 @@
-Esto es una prueba de git-gui
+Esto es una prueba de git-gui.
